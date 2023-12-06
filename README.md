@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello! :wave: I'm Aneta
 
-<!--
-**anetakak/anetakak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-end enthusiast from Poland
 
-Here are some ideas to get you started:
+Jestem pasjonatką programowania frontendowego i uwielbiam tworzyć strony internetowe. Stale doskonale swoje umiejętności w tej ekscytującej dziedzinie. Lubię odkrywać nowe technologie, by następnie wykorzystywać nabytą wiedzę w praktyce i tworzyć niesamowite interaktywne interfejsy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:pencil: Aktualnie uczę się Reacta
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,gulp,react,)](https://skillicons.dev)
+
+### Socials
+
+-Linkedin - [linkedin](https://www.linkedin.com/in/anetakak)
+
+- Frontend Mentor - [@anetakak](https://www.frontendmentor.io/profile/anetakak)
+
+### Contact
+
+:e-mail: aneta.kak(at)op.pl
